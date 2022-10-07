@@ -1,2 +1,5 @@
 # aws-demos
-Various small infrastructure demos running on AWS
+Various AWS infrastructure demos
+
+* [aws-cloud-map-cdk-demo](aws-cloud-map-cdk-demo)
+* [aws-ecs-exec-command-demo](aws-ecs-exec-command-demo)  
